@@ -77,8 +77,8 @@ print(thislist[1])
 #Muestra el ultimo miembro de la lisa
 print(thislist[-1])
 
-# el 2:5 muestra a patir de la posicion 2 a la 5 de los miembros de la lista
-# entendiendo que la posicion que tiene apple es 0 cero
+#el 2:5 muestra a patir de la posicion 2 a la 5 de los miembros de la lista
+#entendiendo que la posicion que tiene apple es 0 cero
 thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 print(thislist[2:5])
 
